@@ -1,2 +1,19 @@
-# Sistema-de-Gerenciamento-de-Contato
-Sistema de gerenciamento de contato, com possibilidade de inserir, editar, listar e remover feito em Java
+# Sistema de Gerenciamento de Contato
+
+Sistema de gerenciamento de contato que gerencia dados de diversos tipos de contatos, entre eles; cliente - pessoa física, cliente - pessoa juridica, fornecedor, contato pessoal e outros.
+
+# Estrutura do diretório
+
+Demostração da estrutura do diretório onde os arquivos .txt's estão armazenados - dentro da pasta SistemaContato.
+
+![Diretório de Arquivos](https://raw.githubusercontent.com/whoisraibolt/Sistema-de-Gerenciamento-de-Contato/master/Diret%C3%B3rio%20de%20Arquivos.PNG)
+
+# Diagrama de Classe
+
+Demostração da hierarquia de heranças e seus respectivos atributos.
+
+![Diagrama de Classe](https://raw.githubusercontent.com/whoisraibolt/Sistema-de-Gerenciamento-de-Contato/master/Diagrama%20de%20Classe.PNG)
+
+# Licença
+
+Sinta-se livre para usar esse código-fonte para modificar ou implantar em seu próprio aplicativo.
