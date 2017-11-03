@@ -18,4 +18,4 @@ Demostração da hierarquia de heranças e seus respectivos atributos.
 
 # Licença
 
-Sinta-se livre para usar esse código-fonte para modificar ou implantar em seu próprio aplicativo.
+Código lançado sob a licença [MIT](https://github.com/whoisraibolt/Sistema-de-Gerenciamento-de-Contato/blob/master/LICENSE "MIT").
